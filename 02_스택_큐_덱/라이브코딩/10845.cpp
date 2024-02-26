@@ -33,7 +33,7 @@ int main(){
             cout << q.size() << "\n";
         }
         else if (cmd == "empty"){
-            cout << q.empty();
+            cout << q.empty() << "\n";
         }
         else if (cmd == "front"){
             if (q.empty()){
@@ -49,7 +49,6 @@ int main(){
             }
             else{
                 cout << q.back() << "\n";
-                q.pop();
             }
         }
     }
