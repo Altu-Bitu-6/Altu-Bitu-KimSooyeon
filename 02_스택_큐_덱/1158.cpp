@@ -16,7 +16,7 @@ int main(){
 
     cout << "<";
 
-    while(!q.empty()){                          //n명의 사람이 모두 제거될 때까지
+    while(!q.empty()){                          //k명의 사람이 모두 제거될 때까지
         int m = n;
 
         while(--m){                             //n번이 큐의 맨 앞에 오도록 함 
