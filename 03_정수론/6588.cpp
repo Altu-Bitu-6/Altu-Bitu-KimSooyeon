@@ -25,6 +25,8 @@ int main(){
     cout.tie(NULL);
 
     int num;
+
+    //에라토스테네스의 체
     vector <bool> is_prime(MAX_SIZE+1, 1);
     findPrime(is_prime);
 
