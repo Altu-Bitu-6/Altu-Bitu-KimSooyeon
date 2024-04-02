@@ -20,7 +20,6 @@ int longest(int n, vector <int> &arr, vector <int> &dp){
 }
 
 int main(){
-
     int n;
     cin >> n;
 

@@ -16,7 +16,6 @@ void stairs(int n,vector <int> &scores, vector<int> &dp){
 }
 
 int main(){
-
     //입력
     int n;
     cin >> n;

@@ -94,8 +94,7 @@ int halligalli (int m, deque <int> &dodo, deque <int> &su){
 
 
 
-int main(){
-
+int main() {
     int n, m, a, b;
     cin >> n >> m;
 
