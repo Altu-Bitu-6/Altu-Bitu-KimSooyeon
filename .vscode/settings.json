@@ -8,6 +8,10 @@
         "iosfwd": "cpp",
         "__split_buffer": "cpp",
         "deque": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
     }
 }
